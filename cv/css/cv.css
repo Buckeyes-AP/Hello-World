@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+ }
+table {width: 50%}
+table, td {border: 1px solid blue; border-collapse: collapse;}
+.company {font-style: italic; font-weight: bold;}
+.role {font-style: italic;}
